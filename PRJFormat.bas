@@ -37,7 +37,7 @@ End Function
 
 Function ErrorHandle()
     
-    'Easier to signal need to update repository than iferror cases. 
+'Easier/funnier way to signal need to update repository than iferror cases. 
     
     Dim errorVar As String
     errorVar = "\\Repository\error.png"
