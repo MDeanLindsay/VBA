@@ -1,4 +1,3 @@
-
 Function Cover(gfilename As String)
     
     'Formats first slide in range of PPT.
